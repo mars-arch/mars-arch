@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**mars-arch/mars-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Mars GitHub Banner](./assets/GitHubHeader.png)](https://cdn.edu.buncee.com/rackspace/bnc-assets/animations/e52/1448469792-Young_Animation_imagination112515_01.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://wakatime.com/@75d02ce4-3933-404e-8f1b-3d10b2a07644"><img src="https://wakatime.com/badge/user/75d02ce4-3933-404e-8f1b-3d10b2a07644.svg" alt="Total time coded since Apr 19 2022" /></a>
+
+
+## Weekly Development Breakdown
+<!--START_SECTION:waka-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--END_SECTION:waka-->
