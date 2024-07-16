@@ -3,7 +3,7 @@
 
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-790%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
 
@@ -12,6 +12,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 349.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 538 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,14 +48,14 @@ Sunday                   105 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               67 hrs 56 mins      ████████████████████░░░░░   78.46 % 
-JavaScript               6 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-JSON                     4 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Python                   4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Git Config               1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+TypeScript               77 hrs 38 mins      ███████████████████░░░░░░   77.23 % 
+JavaScript               7 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+JSON                     5 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Python                   4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Other                    1 hr 37 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  86 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  100 hrs 32 mins     █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +75,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mars-arch/mars-arch/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2024 00:55:01 UTC
+ Last Updated on 16/07/2024 00:53:49 UTC
 <!--END_SECTION:waka-->
