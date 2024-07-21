@@ -3,7 +3,7 @@
 
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-850%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,7 +11,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 542.7 kB Used in GitHub's Storage 
+> 📦 542.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,14 +46,14 @@ Sunday                   105 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               61 hrs 25 mins      ██████████████████░░░░░░░   72.80 % 
-JSON                     7 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-JavaScript               6 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Rust                     3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Other                    1 hr 39 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               53 hrs 8 mins       █████████████████░░░░░░░░   69.69 % 
+JSON                     8 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+JavaScript               5 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Rust                     3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Other                    1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  84 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  76 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +73,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mars-arch/mars-arch/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2024 00:52:37 UTC
+ Last Updated on 21/07/2024 00:57:29 UTC
 <!--END_SECTION:waka-->
