@@ -3,9 +3,9 @@
 
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C284%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C288%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
@@ -13,13 +13,13 @@
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,031 Contributions in the Year 2024
+> 🏆 1,032 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
  > 
-> 🔑 114 Private Repositories 
+> 🔑 115 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -48,16 +48,16 @@ Sunday                   273 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               30 hrs 50 mins      ███████████░░░░░░░░░░░░░░   42.99 % 
-Rust                     21 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   30.37 % 
-TOML                     9 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Other                    2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-JSON                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Rust                     29 hrs 44 mins      ████████████░░░░░░░░░░░░░   47.56 % 
+TypeScript               16 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+TOML                     9 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Python                   1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JSON                     1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-Cursor                   50 hrs 29 mins      ██████████████████░░░░░░░   70.40 % 
-RustRover                18 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-VS Code                  2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Cursor                   38 hrs 5 mins       ███████████████░░░░░░░░░░   60.90 % 
+RustRover                21 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   34.16 % 
+VS Code                  3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,5 +77,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mars-arch/mars-arch/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2024 01:05:06 UTC
+ Last Updated on 02/10/2024 01:02:22 UTC
 <!--END_SECTION:waka-->
