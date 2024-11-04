@@ -3,8 +3,6 @@
 
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%2021%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
@@ -13,11 +11,11 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,125 Contributions in the Year 2024
+> 🏆 1,126 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 141 Private Repositories 
  > 
@@ -48,16 +46,16 @@ Sunday                   275 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-Bash                     3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-JSON                     3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Python                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+TypeScript               3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+JSON                     3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Bash                     2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Python                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🔥 Editors: 
-Cursor                   13 hrs 30 mins      ███████████████████░░░░░░   75.63 % 
-VS Code                  4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Notion                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Cursor                   11 hrs 3 mins       ██████████████████░░░░░░░   72.49 % 
+VS Code                  4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+Notion                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,5 +75,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mars-arch/mars-arch/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 01:09:45 UTC
+ Last Updated on 04/11/2024 01:06:54 UTC
 <!--END_SECTION:waka-->
