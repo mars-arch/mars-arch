@@ -3,9 +3,9 @@
 
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C567%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C567%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
@@ -48,15 +48,14 @@ Sunday                   278 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               12 hrs 20 mins      █████████████████░░░░░░░░   69.88 % 
-JSON                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+TypeScript               3 hrs 45 mins       ██████████████████░░░░░░░   70.21 % 
+Other                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+INI                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Cursor                   15 hrs 28 mins      ██████████████████████░░░   87.67 % 
-VS Code                  2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Cursor                   5 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,5 +75,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mars-arch/mars-arch/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2024 01:07:56 UTC
+ Last Updated on 30/11/2024 01:05:52 UTC
 <!--END_SECTION:waka-->
