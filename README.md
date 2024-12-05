@@ -3,7 +3,7 @@
 
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C568%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C592%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,6 +12,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,225 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,14 +48,14 @@ Sunday                   279 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               27 mins             █████████████░░░░░░░░░░░░   50.15 % 
-JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-INI                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+TypeScript               13 hrs 48 mins      ██████████████░░░░░░░░░░░   56.41 % 
+Other                    2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Prisma                   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Bash                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🔥 Editors: 
-Cursor                   54 mins             █████████████████████████   100.00 % 
+Cursor                   24 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +75,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mars-arch/mars-arch/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2024 01:09:12 UTC
+ Last Updated on 05/12/2024 01:09:12 UTC
 <!--END_SECTION:waka-->
