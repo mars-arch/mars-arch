@@ -3,7 +3,7 @@
 
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C710%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C711%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -13,7 +13,7 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,298 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,15 +48,14 @@ Sunday                   342 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               5 hrs 52 mins       ████████████████░░░░░░░░░   63.06 % 
-Bash                     2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript               5 hrs 47 mins       ████████████████████░░░░░   80.98 % 
+Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 9 mins        █████████████████████████   98.27 % 
-RustRover                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Cursor                   7 hrs 3 mins        █████████████████████████   98.65 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,5 +75,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mars-arch/mars-arch/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 01:03:20 UTC
+ Last Updated on 01/01/2025 01:08:56 UTC
 <!--END_SECTION:waka-->
