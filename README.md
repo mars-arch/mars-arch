@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/MAZHARMIK/MAZHARMIK/main/GME-HEADER.gif" alt="Header GIF" width="80%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Mars</h1>
-<h3 align="center">A passionate developer from Planet Earth</h3>
+<h1 align="center">Mars</h1>
+<h3 align="center">Arch</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -30,8 +30,10 @@
   <!--END_SECTION:waka-->
 </p>
 
-<details>
-<summary>Click for more GitHub stats</summary>
+
+---
+
+### 📊 My GitHub Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mars-arch&show_icons=true&locale=en&theme=radical" alt="mars-arch" />
@@ -47,6 +49,4 @@
     <img alt="Mars's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mars-arch&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" />
   </a>
 </p>
-
-</details>
 
