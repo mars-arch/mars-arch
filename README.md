@@ -22,4 +22,11 @@
   <!--END_SECTION:waka-->
 </p>
 
+---
+
+### 📊 My Top Languages
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mars-arch&show_icons=true&locale=en&layout=compact&theme=radical" alt="mars-arch" />
+</p>
+
 
