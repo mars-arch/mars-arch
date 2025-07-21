@@ -23,6 +23,6 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "True"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "False"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
