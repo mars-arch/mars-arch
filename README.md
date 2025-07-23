@@ -2,15 +2,20 @@
   <img src="https://raw.githubusercontent.com/MAZHARMIK/MAZHARMIK/main/GME-HEADER.gif" alt="Header GIF" width="80%">
 </p>
 
-<h1 align="center">Mars</h1>
-<h3 align="center">Arch</h3>
 
-### Languages and Tools:
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,bash,go,css,vscode,git,prisma&theme=dark" />
-  </a>
-</p>
+
+<pre align="center">
+<code>
+
+███╗░░░███╗ ░█████╗░ ██████╗ ███████╗
+████╗░████║ ██╔══██╗ ██╔══██╗██╔════╝
+██╔████╔██║ ███████║ ██████╔╝███████╗
+██║╚██╔╝██║ ██╔══██║ ██╔══██╗╚════██║
+██║░╚═╝░██║ ██║░░██║ ██║░░██║███████║
+╚═╝░░░░░╚═╝ ╚═╝░░╚═╝ ╚═╝░░╚═╝╚══════╝
+
+</code>
+</pre>
 
 ---
 
@@ -43,11 +48,3 @@
 </p>
 
 _Last Updated on 23/07/2025 00:19:39 UTC_
-
----
-
-### 📊 My Top Languages
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mars-arch&show_icons=true&locale=en&theme=radical&langs_count=10" alt="mars-arch" />
-</p>
